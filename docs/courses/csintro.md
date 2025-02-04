@@ -9,7 +9,7 @@ This course takes approximately 14 weeks to complete, spending about 1 week on e
 ![Space race image](/static/courses/csintro.jpg)
 
 ### ~ hint
-**Download it**
+**Downlod it**
 
 The entire course is also available as a download or as a book. Choose any of these formats:
 
@@ -40,7 +40,7 @@ Each of the 12 lessons is structured in this format:
 
 ### Course on Flipgrid
 
-Flipcode for the **Intro to CS** course grid: **[csintromicrobit](https://flipgrid.com/csintromicrobit)**
+Flikcode for the **Intro to CS** course grid: **[csintromicrobit](https://flipgrid.com/csintromicrobit)**
 
 ## Course contents
 
